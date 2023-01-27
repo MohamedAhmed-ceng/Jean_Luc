@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\bin\Debug\net6.0\Jean_Luc.exe
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\bin\Debug\net6.0\Jean_Luc.deps.json
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\bin\Debug\net6.0\Jean_Luc.runtimeconfig.json
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\bin\Debug\net6.0\Jean_Luc.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\bin\Debug\net6.0\Jean_Luc.pdb
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\Jean_Luc.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\Jean_Luc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\Jean_Luc.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\Jean_Luc.AssemblyInfo.cs
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\Jean_Luc.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\Jean_Luc.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\refint\Jean_Luc.dll
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\Jean_Luc.pdb
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\Jean_Luc.genruntimeconfig.cache
+C:\Users\PC\source\repos\WSB-MohamedAhmed\Jean_Luc\obj\Debug\net6.0\ref\Jean_Luc.dll
